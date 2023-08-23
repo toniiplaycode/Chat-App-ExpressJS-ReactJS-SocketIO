@@ -22,7 +22,7 @@
 .join-chat input {
     height: 36px;
     margin-bottom: 10px;
-
+    padding-left: 3px;
 }
 
 .join-chat button {
